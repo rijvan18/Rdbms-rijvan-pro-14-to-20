@@ -39,3 +39,4 @@ DELIMITER ;
 CALL InsertStudent(105, 'Kavin', 1);
 
 SELECT * FROM Student;
+Write a PL/SQL procedure to insert a student record into the Student table
